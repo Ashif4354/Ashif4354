@@ -54,24 +54,14 @@ My [resume](https://www.canva.com/design/DAGVwzgW730/5-NpPGtaqDxl_8kk0vbDvg/view
 
 
 # 📊 GitHub Stats:
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Ashif4354?cardType=level-alternate&theme=onedark&preferLogin=true&Border=FFFFFF00)](https://git.io/awesome-stats-card)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ashif4354&theme=onedark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashif4354&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Ashif4354?cardType=level-alternate&theme=onedark&preferLogin=true&Border=FFFFFF00)](https://git.io/awesome-stats-card)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ashif4354&theme=onedark&hide_border=true)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ashif4354&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ashif4354&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+  ## 💰 You can support me
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/darkglance) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/darkglance) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/darkglance) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/darkglance) 
 
+  
 ---
 [![](https://visitcount.itsvg.in/api?id=Ashif4354&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/darkglance) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/darkglance) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/darkglance) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/darkglance) 
-
-  ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
