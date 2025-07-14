@@ -2,7 +2,6 @@
 
 # 💫 About Me:
 👯 I’m looking to collaborate on Python Backend Works<br>
-🤝 I’m looking for help with Any Frontend work for my Projects<br>
 🌱 I’m currently learning More Advanced Python <br>
 💬 Ask me about Anything<br>
 ⚡ Fun fact:  I don't have a degree, but I have projects that speak for me!<br>
