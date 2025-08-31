@@ -4,7 +4,6 @@
 👯 I’m looking to collaborate on Python Backend Works<br>
 🌱 I’m currently learning More Advanced Python <br>
 💬 Ask me about Anything<br>
-⚡ Fun fact:  I don't have a degree, but I have projects that speak for me!<br>
 📫 How to reach me: darkglance.developer@gmail.com<br>
 My [resume](https://www.canva.com/design/DAGVwzgW730/5-NpPGtaqDxl_8kk0vbDvg/view?utm_content=DAGVwzgW730&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
